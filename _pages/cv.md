@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Engineering, Clemson University, 2023 (expected)
+* B.S. in Mathematics, Clemson University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Software Engineering Intern
+  * Tesla Inc.
+  * Energy Platform Services
+    * Distributed IoT Cloud Systems
+    * Scala, Kafka, Akka main technologies
+    * Implemented [mobile notifications](https://electrek.co/2021/07/22/tesla-releases-details-virtual-power-plant-public-good-without-compensation/) for [CA Virtual Power Plant Program](https://electrek.co/2021/07/16/tesla-launches-virtual-power-plant-powerwalls-help-california-grid/)
+  * Supervisor: [Colin Breck](https://blog.colinbreck.com/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Experience for Undergraduates (NSF-REU)
+  * Clemson University
+  * Lossy Compression Energy Efficiency
+    * Modeled lossy compressor energy consumption
+    * Reduced power usage for compression by 15% 
+  * Supervisor: [Dr. Jon Calhoun](https://jonccal.people.clemson.edu/)
   
 Skills
 ======
