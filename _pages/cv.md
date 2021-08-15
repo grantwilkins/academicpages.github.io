@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Engineering, Clemson University, 2023 (expected)
-* B.S. in Mathematics, Clemson University, 2023 (expected)
+* B.S. in Mathematical Sciences, Clemson University, 2023 (expected)
 
 Work experience
 ======
@@ -60,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Completed my Eagle Scout Award in Summer 2016.
